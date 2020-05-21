@@ -9,7 +9,7 @@ JSON formatlarında bulabilirsiniz.
 
 Günlük olarak güncellenmektedır.
 
-Kaggle Link :  [https://www.kaggle.com/mehmetkucuk/covid19turkeydata ](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+Kaggle Link :  [https://www.kaggle.com/mehmetkucuk/covid19turkeydata ](https://www.kaggle.com/mehmetkucuk/covid19turkeydata )
 
 # Kaynaklar
 
