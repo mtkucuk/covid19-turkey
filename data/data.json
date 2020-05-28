@@ -74,5 +74,6 @@
 {"date":"2020-05-24","test":"24589","case":"1141","death":"32","recovered":"1092"},
 {"date":"2020-05-25","test":"21492","case":"987","death":"29","recovered":"1321"},
 {"date":"2020-05-26","test":"19853","case":"948","death":"28","recovered":"1492"},
-{"date":"2020-05-27","test":"21043","case":"1035","death":"34","recovered":"1286"}
+{"date":"2020-05-27","test":"21043","case":"1035","death":"34","recovered":"1286"},
+{"date":"2020-05-28","test":"33559","case":"1182","death":"30","recovered":"1576"}
 ]
