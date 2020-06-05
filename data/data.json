@@ -78,5 +78,9 @@
 {"date":"2020-05-28","test":"33559","case":"1182","death":"30","recovered":"1576"},
 {"date":"2020-05-29","test":"36155","case":"1141","death":"28","recovered":"1594"},
 {"date":"2020-05-30","test":"39230","case":"983","death":"26","recovered":"1021"},
-{"date":"2020-05-31","test":"35600","case":"839","death":"25","recovered":"989"}
+{"date":"2020-05-31","test":"35600","case":"839","death":"25","recovered":"989"},
+{"date":"2020-06-01","test":"31525","case":"827","death":"23","recovered":"974"},
+{"date":"2020-06-02","test":"32325","case":"786","death":"22","recovered":"974"},
+{"date":"2020-06-03","test":"52305","case":"867","death":"24","recovered":"931"},
+{"date":"2020-06-04","test":"54234","case":"988","death":"21","recovered":"926"}
 ]
